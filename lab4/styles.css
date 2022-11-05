@@ -1,0 +1,44 @@
+body {
+    background-color: #b4ffff;
+}
+
+.left-cloud {
+    position: absolute;
+    left: 180px;
+    top: 500px;
+}
+
+.right-cloud {
+    position: absolute;
+    right: 180px;
+    top: 150px;
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0px;
+    right: 450px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    top: 200px;
+    color: rgb(102, 191, 161);
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Abyssinica SIL';
+    position: relative;
+    top: 130px;
+    color: rgb(55, 143, 140);
+}
+
+.pro {
+    text-decoration: underline;
+}
