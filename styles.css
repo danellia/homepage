@@ -12,11 +12,23 @@ ul li:before {
 body { 
     width: 960px; 
     margin: auto; 
-	background-color:rgba(245, 230, 220, 0.753);
+	background-color:#FFF5E4;
 }
 table, th, td {
 	text-align: center;
 	border: 1px solid;
 	border-color: brown;
 	padding: 2px;
+}
+
+.pi {
+	color: #FF9494;
+}
+
+a {
+	color: #967E76;
+}
+
+p {
+	color: #483838;
 }
