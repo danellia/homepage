@@ -1,0 +1,123 @@
+#title {
+    background-color: #ff3c68;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+
+#title h1 {
+    width: 45%;
+    color: white;
+}
+
+h1 {
+    font-family: "Montserrat-Black", serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: "Ubuntu";
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0.18;
+}
+
+.nav-link {
+    font-family: "Montserrat-Light", serif;
+    font-size: 1rem;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+.title-image {
+    width: 40%;
+    transform: rotate(25deg);
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    font-family: white;
+    padding-top: 3%;
+}
+
+h2 {
+    font-family: "Montserrat-Bold", serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 7% 15%;
+}
+
+#testimonials h2 {
+    color: white;
+}
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#cta {
+    text-align: center;
+    background-color: #ff3c68;
+    padding-top: 3%;
+}
+
+#cta h1 {
+    color: white;
+}
+
+h3 {
+    font-family: "Montserrat-Bold", serif;
+}
+
+#pricing {
+    text-align: center;
+    padding: 3%;
+}
+
+.card {
+    display: inline-block;
+    text-align: center;
+    margin: 2rem;
+}
+
+.card button {
+    width: 100%;
+}
+
+#features {
+    padding: 10% 2% 10% 2%;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    padding: 3rem;
+}
